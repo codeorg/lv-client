@@ -1,0 +1,26 @@
+{
+  "name": "lv-client",
+  "version": "0.1.2",
+  "description": "leveldb client based on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeorg/lv-client.git"
+  },
+  "keywords": [
+    "leveldb",
+    "nodejs"
+  ],
+  "author": "codeorg.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeorg/lv-client/issues"
+  },
+  "homepage": "https://github.com/codeorg/lv-client#readme",
+  "dependencies": {
+    "co-util": "^0.1.19"
+  }
+}
